@@ -1,6 +1,6 @@
 # Hack-a-roo-22
 
-#Front-End
+# Front-End Application
 ## This is the code of front-end of the Application 'EYE-CONIC'. Tech Stack - Angular, Bootstrap, SCSS
 
 ## Terminal Commands to run the application
