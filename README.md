@@ -21,7 +21,7 @@ Components:
 4. About the project
 5. Team of Eye Conic
 
-Django:
+<b> Django: </b>
 
 The execution starts at checkImage() when the scan button is clicked on Angular UI. It hits the django port i.e http://127.0.0.1/checkImage API.
 We created a flag to check recursively in the output.txt file. Since the MobileNet_V2 takes some time to produce the string of license and place it output.txt, we are required to wait until it is placed. Until then loading screen is loaded on the UI.
